@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">DroppinMahBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_directory_view">DirectoryView</string>
+    <string name="title_activity_file_entry">FileEntry</string>
+    <string name="title_activity_adapter">Adapter</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    
+
+</resources>
